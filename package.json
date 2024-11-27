@@ -52,7 +52,7 @@
     "express-session": "^1.17.3",
     "formidable": "^3.5.0",
     "imgur": "^2.3.0",
-    "jose": "^4.14.4",
+    "jose": "^4.15.5",
     "jquery": "^3.7.0",
     "json-2-csv": "^4.1.0",
     "lusca": "^1.7.0",
